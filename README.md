@@ -1,2 +1,3 @@
-# selpost
+# SelPost
+
 SelPost - Selectable Posts
