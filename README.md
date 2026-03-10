@@ -1,3 +1,3 @@
 # SelPost
 
-SelPost - Selectable Posts Feed Reader
+SelPost - Selectable Posts Feed Maker
