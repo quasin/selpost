@@ -1,3 +1,7 @@
 !.gitignore
+data/
+temp/
+bin/
+apps/
 .DS_Store
 Thumbs.db
