@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "SelPost - Selectable Posts Feed Reader"
+echo "SelPost - Selectable Posts Free Feed Maker"
 dir="$(cd -P -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)"
 cd "$dir"
 
