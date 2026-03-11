@@ -1,3 +1,3 @@
 # SelPost
 
-SelPost - Selectable Posts Feed Maker
+SelPost - Selectable Posts Free Feed Maker
